@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://background_1.png" type="Texture" id=1]
+
+[node name="background_1" type="Sprite"]
+
+position = Vector2( 435.162, 239.725 )
+texture = ExtResource( 1 )
+_sections_unfolded = [ "Animation" ]
+
+
